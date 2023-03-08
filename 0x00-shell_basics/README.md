@@ -1,2 +1,1 @@
 Where am i?
-#!/bin/bash
